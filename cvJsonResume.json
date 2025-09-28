@@ -1,0 +1,251 @@
+{
+  "basics": {
+    "name": "Sergio Sacristán Santero",
+    "label": "Programador FrontEnd",
+    "image": "./profile.webp",
+    "email": "sergiosacristan8@gmail.com",
+    "phone": "+34695588397",
+    "url": "https://sergiosacristan.com",
+    "summary": "¡Hola! Soy Sergio Sacristán, desarrollador Frontend apasionado por la tecnología. Me considero una persona con una gran iniciativa y una constante curiosidad por seguir aprendiendo. Me encanta el trabajo en equipo y, sobre todo, colaborar en proyectos conjuntos donde pueda compartir ideas y aprender de los demás. Mi carácter cercano y simpático me permite relacionarme con facilidad y aportar un ambiente positivo al equipo. A lo largo de mi carrera, he explorado diversos aspectos del mundo de la informática, desde la configuración de redes y servidores hasta el desarrollo web, área que realmente me apasiona y en la que continúo creciendo y perfeccionándome.",
+    "location": {
+      "address": "Arevalo",
+      "postalCode": "CP 05200",
+      "city": "Arevalo",
+      "countryCode": "España",
+      "region": "Avila"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "srg",
+        "url": "https://github.com/srg1995"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sergio",
+        "url": "https://www.linkedin.com/in/sergio-sacrist%C3%A1n-santero-31b750a5/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Freelance",
+      "position": "Desarrollador FullStack",
+      "url": "",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "summary": "Como desarrollador freelance, me especializo en el desarrollo de aplicaciones web utilizando tecnologías modernas como Angular, Vue, React, Nuxt, Next, Astro y Svelte. Ofrezco soluciones personalizadas para proyectos diversos, aplicando las mejores prácticas de desarrollo y metodologías ágiles. Tengo experiencia en el uso de JavaScript y CSS para crear interfaces interactivas y altamente funcionales, adaptadas a las necesidades específicas de cada cliente.",
+      "highlights": []
+    },
+    {
+      "name": "Ntt Data - Caixabank",
+      "position": "Lider Especialista",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2025-04-01",
+      "summary": "Como Técnico Superior en Desarrollo de Aplicaciones Web en Iberdrola, me encargué del desarrollo de páginas web, landings y formularios de contratación, trabajando en un entorno ágil con metodologías como Agile y Kanban. Utilicé tecnologías como Java, Spring, JavaScript, jQuery y JSP para crear soluciones eficientes, y gestioné bases de datos con SQL, además de desarrollar la estructura y el diseño con HTML y CSS.",
+      "highlights": []
+    },
+    {
+      "name": "Ntt Data - Iberdrola",
+      "position": "Analista - Desarrolador",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Como Técnico Superior en Desarrollo de Aplicaciones Web en Iberdrola, me encargué del desarrollo de páginas web, landings y formularios de contratación, trabajando en un entorno ágil con metodologías como Agile y Kanban. Utilicé tecnologías como Java, Spring, JavaScript, jQuery y JSP para crear soluciones eficientes, y gestioné bases de datos con SQL, además de desarrollar la estructura y el diseño con HTML y CSS.",
+      "highlights": []
+    },
+    {
+      "name": "Aidiapp",
+      "position": "Junior",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Como Desarrollador Fullstack, me encargué del desarrollo de aplicaciones Angular para la gestión de cultivos, utilizando Angular 10 y Angular Material para crear interfaces interactivas y eficientes. Implementé soluciones con JavaScript y plantillas NGX_ADMIN, además de trabajar con Node.js en el backend. Utilicé Swagger para la documentación de APIs y gestioné el flujo de trabajo mediante Trello, todo bajo metodologías ágiles.",
+      "highlights": []
+    },
+    {
+      "name": "Air Creative",
+      "position": "Junior",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma, me desempeñé como desarrollador de páginas web para una aplicación destinada a la venta de material de gimnasio. Utilicé tecnologías como JavaScript, jQuery, SQL, HTML y CSS para el desarrollo del frontend, mientras que en el backend trabajé con PHP y el framework Laravel. Además, utilicé Bootstrap para el diseño responsive y gestioné el proyecto con Trello, todo bajo un enfoque ágil.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "IES Galileo",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=IES+GALILEO",
+      "area": "Tecnico en Sistemas",
+      "studyType": "CFGM - Sistemas Microinformaticos y Redes (SMR)",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
+      "score": "4.0",
+      "courses": ["Windows Server", "linux", "Redes", "Cisco Networking"]
+    },
+    {
+      "institution": "Santisima Trinidad",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=COLEGIO%20SANTISIMA%20TRINIDAD&sid=ea%3B",
+      "area": "Tecnico Superior en desarrollo de aplicaciones multiplataforma",
+      "studyType": "CFGS - Desarrollo de Aplicaciones Multiplataforma (DAM)",
+      "startDate": "2015-01-01",
+      "endDate": "2017-01-01",
+      "score": "4.0",
+      "courses": ["Android Studio", "C++", "SQL", "Java", "PHP", "XML"]
+    },
+    {
+      "institution": "IES Alonso de Madrigal",
+      "url": "https://www.linkedin.com/search/results/all/?keywords=IES+ALONSO+DE+MADRIGAL",
+      "area": "Tecnico Superior en desarrollo de aplicaciones Web",
+      "studyType": "CFGS - Desarrollo de Aplicaciones Web (DAW)",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "score": "4.0",
+      "courses": ["HTML", "CSS", "JS", "SASS", "JQUERY", "Bootstrap"]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "PSMI",
+      "date": "2022-02-01",
+      "issuer": "Scrum",
+      "url": "https://www.credly.com/badges/163429d7-3529-4993-890c-b67b15c8c384?source=linked_in_profile"
+    },
+    {
+      "name": "Team Kanban Practitioner",
+      "date": "2023-07-01",
+      "issuer": "Kanban University",
+      "url": "https://edu.kanban.university/user/113473/20394/249/certificate"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Nuxt",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Vue Framework", "UI"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vue Documentation",
+      "startDate": "2019-01-01",
+      "endDate": "",
+      "description": "Aprende a configurar y usar Vue.js para crear aplicaciones interactivas.",
+      "highlights": ["En desarrollo", "Documentación", "FrontEnd"],
+      "url": "https://github.com/srg1995/vue-documentation",
+      "status": "desarrollo"
+    },
+    {
+      "name": "Nuxt Documentation",
+      "startDate": "2019-01-01",
+      "endDate": "",
+      "description": "Domina Nuxt.js para desarrollar aplicaciones escalables y optimizadas.",
+      "highlights": ["En desarrollo", "Documentación", "FrontEnd"],
+      "url": "https://github.com/srg1995/nuxt-documentation",
+      "status": "desarrollo"
+    },
+    {
+      "name": "Astro Documentation",
+      "startDate": "2019-01-01",
+      "endDate": "",
+      "description": "Aprende a crear sitios web rápidos y estáticos con Astro.",
+      "highlights": ["En analisis", "Documentación", "FrontEnd"],
+      "url": "",
+      "status": "analisis"
+    }
+  ]
+}
